@@ -1,7 +1,7 @@
 # **m20-server**
 Trying my hand at building a service for a game engine. Going to base it around a d20 tabletop game. Once the restful service is up i'll build a UI for it later. For now this is just an exercise of building a service to compliment a tabletop game.
 
-## *UPDATE*
+### IMPORTANT IMFORMATION 
 ###### 02/28/2020
 I ended up using this idea as a template for a project I did in my Web Interface Design course during my Bachelor's program. Feel free to peruse and lemme know what ya think of the first draft. Already have some ideas on how to imprpove on some parts that aren't so modern [ like the scroll boxes on the rules page ].
 
